@@ -1,0 +1,508 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  stdafx.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\cameramanager.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(110): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(111): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(112): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(114): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(115): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.h(116): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  action.cpp
+  animation.cpp
+  bat.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bat.cpp(11): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bat.cpp(49): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bat.cpp(136): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullets.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(114): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(113): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(136): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(135): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(199): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(207): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(206): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(221): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\bullets.cpp(220): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\cameramanager.cpp(14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\cameramanager.cpp(15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(71): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(72): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(165): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(166): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(563): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(576): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(619): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(620): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(712): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(713): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(902): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(914): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(913): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(940): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(940): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(941): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(941): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(942): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(942): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(943): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(943): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(944): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(944): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(1028): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\collision.cpp(1028): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  D2Dmanager.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\d2dmanager.cpp(165): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\d2dmanager.cpp(166): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\d2dmanager.cpp(167): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\d2dmanager.cpp(168): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  data.cpp
+  dungeon.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(78): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(195): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(196): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(202): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(203): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(204): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(209): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(214): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(215): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(216): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(221): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(226): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(227): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(228): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\dungeon.cpp(233): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effect.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\effect.cpp(56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+  enemy.cpp
+  enemyManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(120): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(121): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(128): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(129): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(153): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(194): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(195): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(197): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(198): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(200): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(205): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(288): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(295): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\enemymanager.cpp(295): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(112): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(113): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(115): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(116): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(104): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\gamenode.cpp(103): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  image.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(175): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(176): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(298): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(365): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(364): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(382): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(386): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(394): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(393): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(419): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(420): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(421): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(422): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(428): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(429): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(431): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(437): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(440): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(446): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(447): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(449): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(454): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(457): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(486): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(487): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(488): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(489): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(495): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(496): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(498): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(504): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(507): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(513): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(514): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(516): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(521): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\image.cpp(524): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+  iniDataManager.cpp
+  item.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\item.cpp(154): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  itemManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(42): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(68): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(112): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(113): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(124): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(125): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(237): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(251): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(250): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(254): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(258): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(262): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(272): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(286): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(285): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(289): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(293): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\itemmanager.cpp(297): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyAniManager.cpp
+  코드를 생성하고 있습니다...
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\inidatamanager.cpp(93): warning C4715: 'iniDataManager::readData': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\inidatamanager.cpp(269): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  keyManager.cpp
+  maggot.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(106): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(109): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(264): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(266): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(271): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(273): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(278): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(280): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(285): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(287): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(292): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(294): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(299): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(301): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(306): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(308): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(313): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maggot.cpp(315): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapTool.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maptool.cpp(695): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maptool.cpp(867): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maptool.cpp(866): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MouseCursor.cpp
+  npcBlackSmith.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(23): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(59): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(178): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(179): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(191): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(192): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(204): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(205): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(217): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcblacksmith.cpp(218): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  npcManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  npcNode.cpp
+  npcTownHall.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(163): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(159): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(160): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(161): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(162): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(169): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(165): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(166): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(167): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(168): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(175): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(171): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(172): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(173): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npctownhall.cpp(174): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  paladin.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(9): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(49): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(58): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(60): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(128): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(140): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(212): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(212): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(221): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(221): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(230): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(239): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(248): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(248): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(256): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\paladin.cpp(256): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(12): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(13): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(94): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(137): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(624): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(648): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(658): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(659): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(660): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(661): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(662): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(663): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(664): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(665): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(688): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\player.cpp(689): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ranger.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(9): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(49): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(58): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(60): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(140): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(148): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(156): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(164): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(120): warning C4101: 'tileIndex' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(121): warning C4101: 'tileX' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ranger.cpp(121): warning C4101: 'tileY' :참조되지 않은 지역 변수입니다.
+  sceneManager.cpp
+  skeleton.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(112): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(146): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(262): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(264): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(266): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(269): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(271): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(273): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(276): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(278): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(280): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(283): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(285): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(287): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(290): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(292): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(294): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(297): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(299): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(301): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(304): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(306): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(308): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(311): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(313): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\skeleton.cpp(315): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  soundManager.cpp
+  state.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(154): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(157): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(162): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(170): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(173): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(178): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(181): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(189): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(192): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(197): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(200): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(205): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(208): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(213): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\state.cpp(216): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  testMap.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\testmap.cpp(38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  tick.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(221): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(223): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(225): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(228): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(230): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(232): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(235): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(237): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(239): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(242): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(244): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(246): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(249): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(251): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(253): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(256): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(258): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(260): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(263): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(265): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(267): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(270): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(272): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\tick.cpp(274): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tile.cpp
+  timeManager.cpp
+  코드를 생성하고 있습니다...
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\scenemanager.cpp(89): warning C4715: 'sceneManager::currentScene': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maptool.cpp(1034): warning C4715: 'mapTool::terrainSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\maptool.cpp(1098): warning C4715: 'mapTool::objSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  timer.cpp
+  title.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(82): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(83): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(224): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(228): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(232): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(236): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(240): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(244): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(248): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(252): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(256): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(260): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(264): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(268): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(272): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(276): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(280): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(284): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(290): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\title.cpp(296): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  Ui.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(209): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(484): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(496): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(504): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(506): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(507): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(512): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(514): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(515): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(520): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(610): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(616): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(624): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(628): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(698): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(713): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(816): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(866): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(984): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1066): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1085): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1201): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1214): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1091): warning C4101: 'playTime' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1171): warning C4101: 'playTime' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1246): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1583): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1611): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1613): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1614): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1616): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1618): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1619): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1623): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1624): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1626): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1628): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1629): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1633): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1635): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1638): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1640): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1643): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1645): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1648): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1650): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1652): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1653): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1654): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1655): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1662): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1685): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1686): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1687): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1688): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1689): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1690): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1691): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\ui.cpp(1692): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  utils.cpp
+  village.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\village.cpp(84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  winMain.cpp
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(59): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\npcmanager.h(74): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\winmain.cpp(93): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\speci\desktop\취업\포트폴리오\hammerwatch\txtdata.cpp(51): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowAPI.vcxproj -> C:\Users\speci\Desktop\취업\포트폴리오\hammerwatch\.\프레임워크.exe
